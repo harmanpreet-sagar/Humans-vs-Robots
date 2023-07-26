@@ -1,0 +1,16 @@
+Content\Space Background.xnb
+Content\Soldier_Left_Gun_Transparent.xnb
+Content\Soldier_Right_Gun_Transparent.xnb
+Content\Soldier_Standing_Gun_Transparent.xnb
+Content\Soldier_Standing_Transparent_NoGun.xnb
+Content\onebyonepixel.xnb
+Content\Enemy.xnb
+Content\Bullet_Left.xnb
+Content\Bullet_Right.xnb
+Content\Instructions.xnb
+Content\Enemy_Wins.xnb
+Content\Game Tied.xnb
+Content\Soldier_Wins.xnb
+Content\Walking.xnb
+Content\Gunshot.xnb
+Content\SpriteFont1.xnb

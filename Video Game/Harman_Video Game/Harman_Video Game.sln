@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harman_Video_Game", "Harman_Video Game\Harman_Video_Game\Harman_Video_Game.csproj", "{225A0DD0-608E-4C3A-BE4C-B0A4969798AA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Harman_Video_GameContent", "Harman_Video Game\Harman_Video_GameContent\Harman_Video_GameContent.contentproj", "{C334AD7F-F717-4AFF-99F5-13813569EF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225A0DD0-608E-4C3A-BE4C-B0A4969798AA}.Debug|x86.ActiveCfg = Debug|x86
+		{225A0DD0-608E-4C3A-BE4C-B0A4969798AA}.Debug|x86.Build.0 = Debug|x86
+		{225A0DD0-608E-4C3A-BE4C-B0A4969798AA}.Release|x86.ActiveCfg = Release|x86
+		{225A0DD0-608E-4C3A-BE4C-B0A4969798AA}.Release|x86.Build.0 = Release|x86
+		{C334AD7F-F717-4AFF-99F5-13813569EF6D}.Debug|x86.ActiveCfg = Debug|x86
+		{C334AD7F-F717-4AFF-99F5-13813569EF6D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

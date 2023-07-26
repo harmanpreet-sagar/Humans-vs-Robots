@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Space Background.jpg</Source>
+      <Name>Space Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Space Background.xnb</Output>
+      <Time>2021-11-11T12:58:46.1119184-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_Left_Gun_Transparent.png</Source>
+      <Name>Soldier_Left_Gun_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Left_Gun_Transparent.xnb</Output>
+      <Time>2021-11-11T12:58:46.0344373-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_Right_Gun_Transparent.png</Source>
+      <Name>Soldier_Right_Gun_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Right_Gun_Transparent.xnb</Output>
+      <Time>2021-11-11T12:58:46.0540061-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_Standing_Gun_Transparent.png</Source>
+      <Name>Soldier_Standing_Gun_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Gun_Transparent.xnb</Output>
+      <Time>2021-11-11T12:58:46.0730534-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_Standing_Transparent_NoGun.png</Source>
+      <Name>Soldier_Standing_Transparent_NoGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Transparent_NoGun.xnb</Output>
+      <Time>2021-11-11T12:58:46.0913542-05:00</Time>
+    </Item>
+    <Item>
+      <Source>onebyonepixel.png</Source>
+      <Name>onebyonepixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\onebyonepixel.xnb</Output>
+      <Time>2021-11-11T12:58:46.015514-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2021-11-11T12:58:45.9466458-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Left.png</Source>
+      <Name>Bullet_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Left.xnb</Output>
+      <Time>2021-11-11T12:58:45.9036648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Right.png</Source>
+      <Name>Bullet_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Right.xnb</Output>
+      <Time>2021-11-11T12:58:45.9246583-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Instructions.png</Source>
+      <Name>Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Instructions.xnb</Output>
+      <Time>2021-11-11T18:43:02.8867124-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy_Wins.png</Source>
+      <Name>Enemy_Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy_Wins.xnb</Output>
+      <Time>2021-11-11T18:58:23.3565282-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Tied.png</Source>
+      <Name>Game Tied</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Game Tied.xnb</Output>
+      <Time>2021-11-11T18:58:23.4199167-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Soldier_Wins.png</Source>
+      <Name>Soldier_Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Wins.xnb</Output>
+      <Time>2021-11-11T18:58:23.4339018-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walking.wav</Source>
+      <Name>Walking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Walking.xnb</Output>
+      <Time>2021-11-11T12:58:46.183884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Gunshot.wav</Source>
+      <Name>Gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Gunshot.xnb</Output>
+      <Time>2021-11-11T12:58:45.9746304-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2021-11-11T12:58:46.1306759-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C334AD7F-F717-4AFF-99F5-13813569EF6D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-09-08T12:54:02.6046692-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

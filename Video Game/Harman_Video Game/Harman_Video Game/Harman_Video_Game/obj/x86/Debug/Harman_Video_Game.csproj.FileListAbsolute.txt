@@ -1,0 +1,92 @@
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Space Background.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.exe
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.pdb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.exe
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.pdb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Left_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Right_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Transparent_NoGun.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\onebyonepixel.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Walking.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Left.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Right.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Gunshot.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Space Background.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Left_Gun_Transparent.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Right_Gun_Transparent.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Gun_Transparent.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Transparent_NoGun.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\onebyonepixel.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Left.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Right.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Walking.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Gunshot.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\SpriteFont1.xnb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.exe
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.pdb
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.csprojResolveAssemblyReference.cache
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.exe
+U:\ICS 4U1 - Harman\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.pdb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Space Background.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Left_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Right_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Gun_Transparent.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Standing_Transparent_NoGun.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\onebyonepixel.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Left.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Bullet_Right.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Walking.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Gunshot.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.exe
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Harman_Video_Game.pdb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.exe
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\obj\x86\Debug\Harman_Video_Game.pdb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy_Wins.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Game Tied.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Wins.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Enemy_Wins.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Game Tied.xnb
+C:\Users\LENOVO\Desktop\School\Harman Grade 12\Quadmester 1\Intro to Computer Science - ICS 4U1\Video Game\Harman_Video Game\Harman_Video Game\Harman_Video_Game\bin\x86\Debug\Content\Soldier_Wins.xnb

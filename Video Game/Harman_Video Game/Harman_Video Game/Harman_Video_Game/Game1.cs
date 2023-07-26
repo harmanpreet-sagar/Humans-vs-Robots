@@ -4,7 +4,13 @@ Assignment: Video Game Project
 Class: ICS 4U1
 Date: 02 November 2021
 Purpose: To create a fun video game that can be enjoyed by all playing the game.
-NOTE: Parts of the code relating to the creation of the platforms have bbueen left inside the code but have been commented. They have been commented in order to showcase the effort put in to solving the hit test between the platforms and the player. However, due to the lack of time, the code was unresolved and thus needed to be removed. Therefore, in this game, the platforms are not visible, but the code that tried to make the hit tests between the player and the platforms has been left in there for reference. Furthermore, I intended to play a background music, however, when I was adding the background sound into the game, the game was lagging severely. Thus, I was forced into removing the background music altogether from my game.
+NOTE: Parts of the code relating to the creation of the platforms have been left inside the code but have been commented. 
+      They have been commented on in order to showcase the effort put into solving the hit test between the platforms and the player. 
+      However, the code was unresolved due to the lack of time and thus needed to be removed. 
+      Therefore, in this game, the platforms are not visible, but the code that tried to make the hit tests between the player 
+      and the platforms has been left in there for reference. 
+      Furthermore, I intended to play background music, however, when I was adding the background sound into the game, the game was lagging severely. 
+      Thus, I was forced to remove the background music altogether from my game.
 */
 
 using System;

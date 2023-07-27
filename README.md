@@ -4,6 +4,6 @@ The purpose of this project is to create a game where a user-controlled characte
 
 ## How to Play the Game
 
-![Instructions](https://github.com/harmanpreet-sagar/Humans-vs-Robots/assets/110783820/cd761211-4560-44b6-b2b2-0850c7acf154)
+![Instructions](https://github.com/harmanpreet-sagar/Humans-vs-Robots/blob/55c547e3eaa4746719e42ffb7a7f46405392813a/Video%20Game/Harman_Video%20Game/Harman_Video%20Game/Harman_Video_GameContent/Instructions.png)
 
 For a working demo of the game, visit my [website](https://harmanpreetsagar.wixsite.com/website/portfolio#:~:text=HUMANS%20VS%20ROBOTS%3A%20SPACE%20EDITION).
